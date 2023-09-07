@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Epilogue:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Epilogue:wght@400;600&display=swap');
+
+.logo{
+    width: 118px;
+    height: 62px;   
+}
+
+.title{
+    font-family: 'Epilogue', sans-serif;
+    font-weight:600;
+    font-size:80px;
+    width: 557px;
+    height: 180px;
+    border: 1px;
+    color:black;
+    line-height: 90px;
+
+}
+
+.col-1{
+    width: 557px;
+    height: 523px;
+    top: 155px;
+    left: 145px;
+    gap: 40px;
+}
+
+.paragraft{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    text-align: justify;
+    color:black;
+    line-height: 27px;
+}
+
+.container-button{
+    width: 208px;
+    height: 47px;
+    border-radius: 2px;
+}
+
+#button-submit{
+    background-color: orangered;
+    color: white;
+    
+}
+
+.col-2{
+    width: 305px;
+    height: 422px;
+    top: 169px;
+    left: 818px;
+}
+
+.gambarpablo{
+    width: Fixed (305px);
+    height: Fixed (307px);
+    top: 169px;
+    left: 818px;
+    gap: 12px; 
+}
+
+.container-paragraft{
+    font-family: Epilogue;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.paragraft-1{
+    font-family: Epilogue;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.ikon{
+    width: 229px;
+    height: 37px;
+    top: 554px;
+    left: 856px;
+}
+
+.facbookikon{
+    width: 30px;
+    height: 30px;
+    top: 556px;
+    left: 856px;
+}
+
+.twitterikon{
+    width: 33px;
+    height: 33px;
+    top: 556px;
+    left: 918px;
+}
+
+.instagramikon{
+    width: 31px;
+    height: 31px;
+    top: 557px;
+    left: 984px;
+}
+
+.linkedinikon{
+    width: 37px;
+    height: 37px;
+    top: 554px;
+    left: 1048px;
+}
